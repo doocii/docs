@@ -39,11 +39,8 @@
 ## 未分类
 
 - [没人懂某国](meirendongmouguo.md)
-
-## 诗歌
-
 - [不畏风雨](fengyu.md)
-
+- [茅于轼：教育的目的是什么？](maoyushi-jiaoyu.md)
 ---
 
 update: 20180724
