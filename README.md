@@ -41,6 +41,8 @@
 - [没人懂某国](meirendongmouguo.md)
 - [不畏风雨](fengyu.md)
 - [茅于轼：教育的目的是什么？](maoyushi-jiaoyu.md)
+- [周国平：处世之道](zhouguoping.md)
+
 ---
 
-update: 20180724
+update: 20180904
