@@ -1,7 +1,5 @@
 # 纽伯瑞历届获奖作品中文电子书整理
 
-> 建立：20181023，更新：20181101
-
 ## 简介
 
 纽伯瑞奖（The Newbery Medal for Best Children's Book）是由美国图书馆学会（American Library Association - ALA）的分支机构—— 美国图书馆儿童服务学会（Association for Library Service to Children - ALSC）于1922年为纪念纽伯瑞而创设的奖项。
@@ -125,7 +123,7 @@
 | 1928 | 《神奇史密斯和他的儿子》 | 艾拉·扬（Ella Young） | 缺，kindle | |
 | 1929 | 《一百万只猫》          | 婉达·盖格（Wanda Gág）      |   |绘本，PDF |
 | 1931 | 《香料和魔鬼角》       | 艾格尼丝·赫韦斯（Agnes Hewes）   | 缺 |  | 
-| 1932 | 《卡利柯灌木丛》       | 雷切尔·菲尔德（Rachel Field）  | 又名《月桂精灵》，缺，豆瓣阅读 | |
+| 1932 | 《卡利柯灌木丛》       | 雷切尔·菲尔德（Rachel Field）  | | 又名《月桂精灵》，缺，kindle  |
 | 1936 | 《起航：飞云大冒险》   | 阿姆斯特朗·斯佩里 (Armstrong Sperry)  | 缺 | |
 | 1936 | 《大牧场上的凯特》     | 凯特·萨瑞迪（Kate Seredy）  | 缺，kindle | |
 | 1937 | 《金篮子旅店》          | 路德维格·贝梅尔曼斯 |  缺 | | 
@@ -234,9 +232,6 @@
 | 2014 | 《送埃莉诺回家》 | 霍莉·布莱克  | Doll Bones by Holly Black | 缺  |
 | 2014 | 《报童的夏天》     | 文斯·沃特  | Paperboy by Vince Vawter | 缺  |
 
---- 
+---
 
-kindle：
-
-- 路易斯·萨奇尔《洞》
-- 天堂里的佩妮
+> 建立：20181023，更新：20181101
