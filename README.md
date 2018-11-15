@@ -5,6 +5,9 @@
 - [纽伯瑞奖书籍](newbery-medal-books.md)
 - [卡内基奖书籍](carnegie-medal-books.md)
 
+- [横山秀夫](tuili/HengShanXiuFu.md)
+- [格雷厄姆·格林](tuili/GrahamGreene.md)
+
 ## 文章
 
 ### 演讲

@@ -97,7 +97,7 @@
 | 1998 | 《风儿不要来》          | 凯伦·海瑟（Karen Hesse） | 缺 |
 | 1999 | 《洞》                  | 路易斯·萨奇尔（Louis Sachar） | 缺，又名《寻宝小子》，kindle |
 | 2000 | 《巴德，不是巴迪》     | 克里斯多福·保罗·克提斯（Christopher Paul Curtis） | 缺 |
-| 2001 | 《乡间一年》            | 理查德·佩克（Richard Peck） | 又名《背井离乡的365天》 |
+| 2001 | 《乡间一年》            | 理查德·佩克（Richard Peck） | 又名《背井离乡的365天》，非常欢乐的乡间生活，推荐 |
 | 2002 | 《碎瓷片》           | 琳达·休·帕克（Linda Sue Park）  |  |
 | 2003 | 《铅十字架的秘密》      |  艾非（Avi）                 | 缺 |
 | 2004 | 《浪漫鼠德佩罗》       | 凯特·迪卡米洛（Kate DiCamillo） |  |
@@ -143,8 +143,9 @@
 | 1953 | 《夏洛的网》            | E.B.怀特（E. B. White） |  |
 | 1954 | 《小兔沙得拉》          | 门德特·德琼（Meindert DeJong） | 缺 |
 | 1955 | 《莎拉的勇气》          | 爱丽丝·达格利什（Alice Dalgliesh） |   |
+| 1955 | 《校舍上的车轮》       |  门德特·德琼  |  The Wheel on the School by Meindert DeJong |  |
 | 1957 | 《六十个老爸的房子》      | 门德特·德琼 | The House of Sixty Fathers by Meindert DeJong  |
-| 1958 | 《摩天轮》          | 罗伯特·罗素（Robert Lawson） | kindle |
+| 1958 | 《摩天轮》          | 罗伯特·罗素 | The Great Wheel by Robert Lawson  |   |
 | 1959 | 《桥下一家人》          | 纳塔莉·萨维奇·卡尔森（Natalie Savage Carlson） |  |
 | 1959 | 《卡麦基神杯》        | 卡罗尔·坎戴尔（Carol Kendall）  |   |
 | 1959 | 《危险的路》          | 威廉·斯蒂勒 | The Perilous Road by William O. Steele |  |
@@ -155,7 +156,7 @@
 | 1967 | 《山羊兹拉特》          | 艾萨克·巴·辛格（Isaac Bashevis Singer） | 缺 |
 | 1967 | 《国王的五分之一》         | 斯克特·奥台尔（Scott O'Dell） |   |
 | 1968 | 《下课去埃及》           | 济尔法·基特利·斯奈德（Zilpha Keatley Snyder）  | 缺 |
-| 1968 | 《黑珍珠》              | 斯克特·奥台尔（Scott O'Dell） |  缺 |
+| 1968 | 《黑珍珠》              | 斯克特·奥台尔（Scott O'Dell） |    |
 | 1968 | 《小巫婆求仙记》         | 柯尼斯伯格（E. L. Konigsburg） |   |
 | 1969 | 《给孩子们的故事》          | 艾萨克·巴·辛格（Isaac Bashevis Singer）  | 缺 kindle |
 | 1971 | 《月光下的歌谣》       | 斯克特·奥台尔（Scott O'Dell） |  |
@@ -178,7 +179,7 @@
 | 1983 | 《幽灵的低语》 | 维吉尼亚·汉密尔顿（Virginia Hamilton） | 缺 |
 | 1984 | 《孤单的蓝色》 | 辛西娅·沃格（Cynthia Voigt） | 缺 |
 | 1984 | 《海狸的记号》 | 伊丽莎白·乔治·斯皮尔（Elizabeth George Speare）  | 缺 |
-| 1984 | 《五毛钱的愿望》 | 比尔·布里坦（Bill Brittain） |  缺 |
+| 1984 | 《五毛钱的愿望》 | 比尔·布里坦  |  The Wish Giver by Bill Brittain  |  |
 | 1985 | 《篮球少年》 | 布鲁斯·布鲁克斯 | The Moves Make the Man by Bruce Brooks | 缺  |
 | 1985 | 《一只眼睛的猫》 | 葆拉·福克斯（Paula Fox） |  |  |
 | 1986 | 《雪橇犬之歌》 | 盖瑞·伯森 | Dogsong by Gary Paulsen） | 缺，kindle |
@@ -201,7 +202,7 @@
 | 1999 | 《远离芝加哥的地方》 | 理查德·佩克  | A Long Way from Chicago by Richard Peck |  |
 | 2000 | 《繁梦大街26号》 | 汤米·狄波拉  | 26 Fairmount Avenue by Tomie dePaola | 缺 |
 | 2000 | 《屋顶上的小孩》 | 奥黛莉·克伦毕斯  | Getting Near to Baby by Audrey Couloumbis |  |
-| 2001 | 《傻狗温迪克》      | 凯特·迪卡米洛  | Because of Winn-Dixie by Kate DiCamillo | 缺 |
+| 2001 | 《傻狗温迪克》      | 凯特·迪卡米洛  | Because of Winn-Dixie by Kate DiCamillo |   |
 | 2001 | 《少女苏菲的航海故事》 | 沙伦·克里奇  | The Wanderer by Sharon Creech |  |
 | 2002 | 《松饼屋的异想世界》 | 霍维斯 |  Everything on a Waffle by Polly Horvath| 缺  |
 | 2003 | 《宇宙的一角》         |安·马丁   | A Corner of the Universe by Ann M. Martin | 缺 |
@@ -234,4 +235,4 @@
 
 ---
 
-> 建立：20181023，更新：20181101
+> 建立：20181023，更新：20181103
