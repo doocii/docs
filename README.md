@@ -1,10 +1,32 @@
-# 文档
+# Laodu's wiki
+
+## somelist
+
+- [我喜欢的TED演讲](TED-talks.md)
+
+## 技术笔记
+
+- [我的笔记系统](我的笔记系统.md)
+- [文件整理](文件整理.md)
+
+- [正则表达式笔记](正则表达式.md)
+- [电子书工具相关笔记](电子书工具相关笔记.md)
+- [笨方法学python](笨方法学python.md)
+- [linux软件](linux-software.md)
+- [linux命令行](linux-cli.md)
+- [archlinux](archlinux.md)
+- [ubuntu](ubuntu.md)
+- [nas](nas.md)
+- [sublime-text](sublime-text.md)
+- [vscode](vscode.md)
+- [chrome-browser](chrome-browser.md)
+
+---
 
 ## 资料
 
 - [纽伯瑞奖书籍](newbery-medal-books.md)
 - [卡内基奖书籍](carnegie-medal-books.md)
-
 - [横山秀夫](tuili/HengShanXiuFu.md)
 - [格雷厄姆·格林](tuili/GrahamGreene.md)
 
@@ -56,4 +78,4 @@
 
 ---
 
-update: 201811101
+update: 20181222
