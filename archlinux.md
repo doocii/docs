@@ -104,6 +104,12 @@ pacman -Qs xxx 查询已安装包
 
 invalid pgp key错误解决 : `$ sudo pacman-key --refresh-keys`
 
+### 环境变量
+
+编辑 `~/.bashrc`，加入
+
+`export PATH=$PATH:/somepath`
+
 ### 字体
 
 - 等宽字体： `pacman -S ttf-dejavu`
@@ -145,3 +151,18 @@ export GTK_IM_MODULE=fcitx
     pacman -S nutstore jre10-openjdk
 
 选择其他jre环境报错，原因不明
+
+### SSH and git
+
+- 安装 openssh
+- 创建本地ssh key：` ssh-keygen -t rsa -C "youremail@example.com"`
+- 复制 `~.ssh/id_rsa.pub` 内容到github-Account settings-SSH Keys，Title随意
+- 添加本地仓库 `git remote add origin git@github.com:some/git.git`
+- 拉取远程 `git pull origin master` 
+- 强制推送本地仓库 `git push -u origin +master`
+
+### 微信
+
+- 用过 electronic-wechat 和 deepin wine的微信
+- 在用 wewechat
+
