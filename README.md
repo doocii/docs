@@ -73,7 +73,6 @@
 - [没人懂某国](meirendongmouguo.md)
 - [不畏风雨](fengyu.md)
 - [茅于轼：教育的目的是什么？](maoyushi-jiaoyu.md)
-- [周国平：处世之道](zhouguoping.md)
 - [王小波：工作与人生](wangxiaobo-gongzuo.md)
 - [周保松：走进生命的学问](走进生命的学问.md)
 
