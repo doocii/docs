@@ -1,6 +1,6 @@
 # Laodu's wiki
 
-## somelist
+## somelists
 
 - [我喜欢的TED演讲](TED-talks.md)
 
@@ -8,7 +8,6 @@
 
 - [我的笔记系统](我的笔记系统.md)
 - [文件整理](文件整理.md)
-
 - [正则表达式笔记](正则表达式.md)
 - [电子书工具相关笔记](电子书工具相关笔记.md)
 - [笨方法学python](笨方法学python.md)
@@ -20,6 +19,7 @@
 - [sublime-text](sublime-text.md)
 - [vscode](vscode.md)
 - [chrome-browser](chrome-browser.md)
+- [txt](plain-txt.md)
 
 ---
 
@@ -75,7 +75,10 @@
 - [茅于轼：教育的目的是什么？](maoyushi-jiaoyu.md)
 - [周国平：处世之道](zhouguoping.md)
 - [王小波：工作与人生](wangxiaobo-gongzuo.md)
+- [周保松：走进生命的学问](走进生命的学问.md)
 
 ---
 
-update: 20181222
+### Changelog
+
+2018-11-26 更新
