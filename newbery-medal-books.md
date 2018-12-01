@@ -45,7 +45,7 @@
 | 1947 | 《胡桃木小姐》      | 卡罗琳·舍温·贝利（Carolyn Sherwin Bailey）| 又名《胡桃木的漫长冬天》  |
 | 1948 | 《二十一只气球》   | 威廉·皮纳·杜·鲍里斯（William Pène du Bois）|  缺   |
 | 1949 | 《风之王》         | 玛格莉特·亨利（Marguerite Henry） | |
-| 1950 | The Door in the Wall | Marguerite De Angeli  | 缺|
+| 1950 | 《墙上的门》 |   | The Door in the Wall by  Marguerite De Angeli  | 缺|
 | 1951 | 《自由人》         | 依莉莎白·叶慈（Elizabeth Yates） | 缺 |
 | 1952 | 《派伊家的金吉尔》     | 埃莉诺·埃斯特（Eleanor Estes） |缺 |
 | 1953 | 《安第斯山脉的秘密》       | 安·诺兰·克拉克 （Ann Nolan Clark）  | 缺|

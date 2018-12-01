@@ -112,9 +112,15 @@ invalid pgp key错误解决 : `$ sudo pacman-key --refresh-keys`
 
 ### 字体
 
+查看中文字体： `fc-list :lang=zh`
+
 - 等宽字体： `pacman -S ttf-dejavu`
 - emoji： `noto-fonts-emoji`
-- 中文字体，文泉驿微米黑： `pacman -S wqy-microhei`
+- 文泉驿微米黑： `pacman -S wqy-microhei`
+- 思源宋体和黑体： adobe-source-han-serif-cn-fonts 和 adobe-source-han-sans-cn-fonts，避免安装 otc 字体产生混乱。
+
+常用软件添加字体，如思源宋体 Source Han Serif CN
+
 
 ### 输入法
 
@@ -161,8 +167,21 @@ export GTK_IM_MODULE=fcitx
 - 拉取远程 `git pull origin master` 
 - 强制推送本地仓库 `git push -u origin +master`
 
-### 微信
+### Syncthing
 
-- 用过 electronic-wechat 和 deepin wine的微信
-- 在用 wewechat
+- 安装 syncthing / syncthing-gtk
+- 加入服务： `sudo systemctl enable syncthing@laodu.service`
+- 启动服务： `sudo systemctl start syncthing@laodu.service`
+- 本机地址： http://127.0.0.1:8384/
 
+### 其他软件
+
+- 微信：用过 electronic-wechat 和 deepin wine的微信，在用 wewechat
+- 电子书工具：pandoc / sigil / kindlegen
+- 图像：gimp
+
+
+### dell Inspiron 13/7000
+
+- Fn+Esc 键可以锁定F1-F12功能键。开始我以为是系统问题，google了才知道是硬件设计。
+- 

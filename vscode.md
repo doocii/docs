@@ -8,15 +8,9 @@
 
 ## markdown使用
 
-## 安装推荐插件 markdownlint
+### 浏览器预览markdown
 
-## 普通预览
-
-ctrl+K V，或右上角图标。
-
-## 浏览器预览markdown
-
-1. ctrl+shift+V，新标签预览模式。chtr+K V（松开ctrl），分屏显示预览窗口。
+1. ctrl+shift+V，新标签预览模式。ctrl+K V（松开ctrl），分屏显示预览窗口。
 2. 侧边栏有 outline view，可以显示大纲
 
 插件模式：
