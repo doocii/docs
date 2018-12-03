@@ -1,6 +1,6 @@
 # Linux软件
 
-> 20181123 update
+
 
 - 桌面：mate
 - 浏览器：Chrome / firefox
@@ -21,3 +21,6 @@
 - 启动：dmenu
 - 词典：ydcv
 
+---
+
+- 20181123 update

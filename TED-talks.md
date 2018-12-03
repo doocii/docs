@@ -28,6 +28,8 @@
 
 - [HansRosling：如何摆脱对世界的无知](http://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world?language=zh-cn) 个人的偏见、过时的信息、媒体的误导是形成人们错误直觉的因素。还有就是人们倾向于关注自己喜欢的和熟悉的内容，所以会对不关心的事情更加无知。怎样更好的理解世界，预测未来？四个建议：Things are getting better, One-hump camel, Girls in school, Sharks are away.
 
+- [Tim Ferriss： 无所畏惧，学无止境](https://www.ted.com/talks/tim_ferriss_smash_fear_learn_anything?language=zh-cn) 畅销书作家费里斯谈到学习游泳、外语和跳舞，他鼓励人们去尝试不一样的方法，突破原有的学习路径和方法。
+
 ## 极简生活
 
 - [Graham Hill: Less stuff, more happiness](http://www.ted.com/talks/graham_hill_less_stuff_more_happiness.html)简单化的物质生活，能够带来更多的快乐与幸福感，这个主题切合我近期的想法。

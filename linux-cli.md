@@ -17,12 +17,11 @@
 ### 系统操作
 
 - crontab命令用于设置周期性被执行的指令。
-  - `crontab -e` 可以编辑当前用户的配置文件，例如`15 - - - - python -O /home/laodu/bash/airmail.py`，每小时的15分运行python脚本
+  - `crontab -e` 可以编辑当前用户的配置文件，例如`15 * * * * python -O /home/laodu/bash/airmail.py`，每小时的15分运行python脚本
   - `crontab -l` 显示当前配置
   - 打开服务 archlinux： `sudo systemctl enable cronie.service`
   - 重启服务 archlinux： `sudo systemctl restart cronie.service`
-  - 重启服务 ubuntu： `sudo service cron restart`
-  - [http://www.corntab.com/](http://www.corntab.com/) 在线编辑器
+  - 重启服务 ubuntu： `sudo systemctl start cron.service`
 
 ---
 

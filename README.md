@@ -11,6 +11,7 @@
 - [正则表达式笔记](正则表达式.md)
 - [电子书工具相关笔记](电子书工具相关笔记.md)
 - [笨方法学python](笨方法学python.md)
+- [安卓APP](AndroidAPP.md)
 - [linux软件](linux-software.md)
 - [linux命令行](linux-cli.md)
 - [archlinux](archlinux.md)
@@ -25,6 +26,8 @@
 
 ## 资料
 
+- [电影相关](movie.md)
+- [电子书相关](ebook.md)
 - [纽伯瑞奖书籍](newbery-medal-books.md)
 - [卡内基奖书籍](carnegie-medal-books.md)
 - [横山秀夫](tuili/HengShanXiuFu.md)
