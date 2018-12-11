@@ -1,12 +1,13 @@
-# 笨方法学python
+# python学习记录
+
+## 笨方法学python
 
 Created 2016-06-05
 
-## 环境搭建
+### 环境搭建
 
 作者强调使用命令行工具，而非IDLE。而且，windows下配置环境会稍微麻烦一些，这会让新人挠头。
 
-## 基本知识
 
 ### 编码
 
@@ -42,3 +43,19 @@ python使用 % 来格式化输出字符串，比如：
 ### 转意字符
 
 \n 就是转意字符，在需要打印单引号或双引号时，需要使用 \ 。更多搜索“转意序列”。
+
+## 第三方模块
+
+### pyecharts
+
+[pyecharts](https://github.com/pyecharts/pyecharts) 是一个用于生成 Echarts 图表的类库。效果很漂亮。
+
+### Pillow
+
+[Pillow](https://github.com/python-pillow/Pillow) 是一个图像处理库。我机器上已经包含在 site-packages 模块里了。
+
+
+
+
+
+

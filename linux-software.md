@@ -16,11 +16,17 @@
 - PDF阅读：Evince
 - 图像处理：GIMP
 - 抓图[Flameshot](https://github.com/lupoDharkael/flameshot)
-- 下载：wget / aria2 / you-get
+- 下载：wget / you-get / BaiduPCS-Go / qbittorrent
 - 解压缩：xarchive
 - 启动：dmenu
 - 词典：ydcv
 
 ---
+
+### ffmpeg
+
+- [ffmpeg 入门笔记](http://einverne.github.io/post/2015/12/ffmpeg-first.html)
+
+
 
 - 20181123 update

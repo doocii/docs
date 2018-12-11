@@ -4,6 +4,8 @@
 
 [官方cheetsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)，我常用的：
 
+- ctrl + B 切换侧边栏显示
+
 - 列选择：光标处按下左键，然后按住shift+alt，拖动
 
 ## markdown使用
