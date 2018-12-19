@@ -78,7 +78,7 @@
 - [茅于轼：教育的目的是什么？](maoyushi-jiaoyu.md)
 - [王小波：工作与人生](wangxiaobo-gongzuo.md)
 - [周保松：走进生命的学问](走进生命的学问.md)
-
+- [这鸡蛋真难吃](这鸡蛋真难吃.md)
 ---
 
 ### Changelog

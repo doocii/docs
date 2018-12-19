@@ -179,6 +179,7 @@ export GTK_IM_MODULE=fcitx
 - 微信：用过 electronic-wechat 和 deepin wine的微信，在用 wewechat
 - 电子书工具：pandoc / sigil / kindlegen
 - 图像：gimp
+- 文件传输：android-file-transfer（如果file manager不支持MTP就安装这个）
 
 
 ### dell Inspiron 13/7000
