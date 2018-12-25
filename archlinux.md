@@ -158,6 +158,12 @@ export GTK_IM_MODULE=fcitx
 
 选择其他jre环境报错，原因不明
 
+### 网易云音乐
+
+托盘菜单无法显示，最小化之后只能手动杀死进程。参考[这里](https://forum.ubuntu.org.cn/viewtopic.php?f=74&t=484624)解决：
+
+修改启动命令为 `env XDG_CURRENT_DESKTOP=Unity netease-cloud-music`
+
 ### SSH and git
 
 - 安装 openssh
@@ -182,7 +188,12 @@ export GTK_IM_MODULE=fcitx
 - 文件传输：android-file-transfer（如果file manager不支持MTP就安装这个）
 
 
+---
+
+## 硬件问题
+
 ### dell Inspiron 13/7000
 
 - Fn+Esc 键可以锁定F1-F12功能键。开始我以为是系统问题，google了才知道是硬件设计。
+- 只有一个耳机插口，安装`alsa-utils`后，可以按F4进入capture页面，在 headphone 部分按空格，切换插口是播放还是录音
 - 

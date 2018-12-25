@@ -27,6 +27,6 @@
 
 - [ffmpeg 入门笔记](http://einverne.github.io/post/2015/12/ffmpeg-first.html)
 
-
+转换格式：`ffmpeg -i "1.webm" -vn -ab 128k -ar 44100 -y "1.mp3"`
 
 - 20181123 update
