@@ -26,6 +26,7 @@
 
 ## 资料
 
+- [英语学习相关](english-learning.md)
 - [电影相关](movie.md)
 - [电子书相关](ebook.md)
 - [纽伯瑞奖书籍](newbery-medal-books.md)
