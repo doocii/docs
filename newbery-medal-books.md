@@ -23,8 +23,8 @@
 | 1925 | 《银色大地的传说》    |查尔斯·芬格（Charles Finger）        | 缺 |
 | 1926 | 《海神的故事》       |  克里斯曼（Arthur Bowie Chrisman）  | 缺 |
 | 1927 | 《牧牛小马斯摩奇》  | 维尔·詹姆斯（Will James）         |  |
-| 1928 | 《花颈鸽》         | 达恩・默克奇（Dhan Gopal Mukerji）  |  又名：《穿越喜马拉雅山的信鸽》 |
-| 1929 | 《吹号手的诺言》       | 埃里克·凯利（Eric P. Kelly）   |  《波兰吹号手》 |
+| 1928 | 《花颈鸽》         | 达恩・默克奇（Dhan Gopal Mukerji）  |  又名：《穿越喜马拉雅山的信鸽》 √ |
+| 1929 | 《吹号手的诺言》       | 埃里克·凯利（Eric P. Kelly）   |  又名：《波兰吹号手》 √ |
 | 1930 | 《海蒂，木偶百年历险记》 | 雷切尔・菲尔德（Rachel Field）  | 又名《木头娃娃的旅行》  |
 | 1931 | 《去了天堂的猫》       | 伊丽莎白·科茨沃斯（Elizabeth Coatsworth）  |   |
 | 1932 | 《荒泉山》            | 劳拉·亚当斯·阿默（Laura Adams Armer）  |  缺 |
@@ -36,7 +36,7 @@
 | 1938 |  The White Stag        | 凯特·萨瑞蒂（Kate Seredy） | 缺  |
 | 1939 | 《银顶针的夏天》   | 伊丽莎白·恩赖特（Elizabeth Enright） |   |
 | 1940 |  Daniel Boone  |  James Daugherty  |  缺 |
-| 1941 |  《勇敢的心》    |  阿姆斯特朗·斯佩里 | Call It Courage by Armstrong Sperry | 又名《海上小勇士》《你那样勇敢》|
+| 1941 |  《勇敢的心》    |  阿姆斯特朗·斯佩里 | Call It Courage by Armstrong Sperry | 又名《海上小勇士》《你那样勇敢》√ |
 | 1942 | The Matchlock Gun | Walter D. Edmonds  | 缺  |
 | 1943 | Adam of the Road | Elizabeth Gray Vining | 缺|
 | 1944 | Johnny Tremain   | Esther Forbes        | 缺|
@@ -63,7 +63,7 @@
 | 1965 |  Shadow Of A Bull     |  Maia Wojciechowska  |  缺 |
 | 1966 |  I, Juan de Pareja    | Elizabeth Borton de Treviño      | 缺  |
 | 1967 |  Up a Road Slowly     | Irene Hunt                         |  缺 |
-| 1968 | 《天使雕像》                | 柯尼斯伯格（E. L. Konigsburg） |   |
+| 1968 | 《天使雕像》          | 柯尼斯伯格（E. L. Konigsburg） |  √ |
 | 1969 | 《奇幻岛英雄 5：至高王》 | 劳埃德·亚历山大（劳埃德·亚历山大） | 未来出版社，缺   |
 | 1970 | 《大嗓门传奇》          | 威廉·阿姆斯特朗（William H. Armstrong）  | 河北教育出版社，缺   |
 | 1971 | 《夏日天鹅》            | 贝茜·拜厄斯（Betsy Byars）    | 安徽少年儿童出版社，缺  |
@@ -89,7 +89,7 @@
 | 1991 | 《疯狂麦基》            | 杰瑞·史宾尼利（Jerry Spinelli）|    |
 | 1992 | 《喜乐与我》            | 菲琳丝·那勒（Phyllis Reynolds Naylor） |   |
 | 1993 | 《想念梅姨》            | 辛西娅·赖伦特（Cynthia Rylant） |  缺 |
-| 1994 | 《记忆传授人》         | 洛伊丝·劳里（Lois Lowry）  |  |
+| 1994 | 《记忆传授人》         | 洛伊丝·劳里（Lois Lowry）  | √ |
 | 1995 | 《印第安人的麂皮靴》   | 沙伦·克里奇（Sharon Creech） | 缺 |
 | 1996 | 《孤女流浪记》          | 凯伦·库什曼（Karen Cushman） |  |
 | 1996 | 《杰米的魔术》      | 卡罗琳·库曼  | What Jamie Saw by Carolyn Coman |  |
@@ -129,7 +129,7 @@
 | 1937 | 《金篮子旅店》          | 路德维格·贝梅尔曼斯 |  缺 | | 
 | 1938 | 《梅溪河岸》            |  罗兰·英格斯·怀德 | 小木屋系列共9册 | | 
 | 1938 | 《光明岛》           | 梅布尔·路易丝·罗宾逊（Mabel Robinson） | 缺 | | 
-| 1939 | 《波普先生的企鹅》      | Richard & Florence Atwater |  | | 
+| 1939 | 《波普先生的企鹅》      | Richard & Florence Atwater |  | √ | 
 | 1940 | 《唱歌的树》            | 凯特·萨瑞迪（Kate Seredy）  | 缺 | | 
 | 1940 | 《在银湖岸》            | 罗兰·英格斯·怀德             | 小木屋系列共9册 |
 | 1941 | 《漫长的冬季》          | 罗兰·英格斯·怀德 | 小木屋系列共9册 |
@@ -149,8 +149,8 @@
 | 1959 | 《桥下一家人》          | 纳塔莉·萨维奇·卡尔森（Natalie Savage Carlson） |  |
 | 1959 | 《卡麦基神杯》        | 卡罗尔·坎戴尔（Carol Kendall）  |   |
 | 1959 | 《危险的路》          | 威廉·斯蒂勒 | The Perilous Road by William O. Steele |  |
-| 1960 | 《山居岁月》            | 珍·克雷赫德·乔治（ Jean Craighead George）  |  |
-| 1961 | 《时代广场的蟋蟀》      | 乔治·塞尔登 （George Selden） |  |
+| 1960 | 《山居岁月》            | 珍·克雷赫德·乔治（ Jean Craighead George）  | √ |
+| 1961 | 《时代广场的蟋蟀》      | 乔治·塞尔登 （George Selden） | √ |
 | 1964 | 《小淘气》              | 史特林·诺斯（Sterling North）  |  缺 |
 | 1966 | 《动物家庭》            | 兰德尔·贾雷尔 | 缺 |
 | 1967 | 《山羊兹拉特》          | 艾萨克·巴·辛格（Isaac Bashevis Singer） | 缺 |
@@ -199,7 +199,7 @@
 | 1998 | 《波马的秘密》 | 杰瑞·史宾尼利 | Wringer by Jerry Spinelli | 缺  |
 | 1998 | 《莉莉的彼岸》 | 帕特里夏·赖莉·吉芙  | Lily's Crossing by Patricia Reilly Gif | 缺 |
 | 1998 | 《魔法灰姑娘》 | 盖尔·卡森·乐文  | Ella Enchanted by Gail Carson Levine | 缺 |
-| 1999 | 《远离芝加哥的地方》 | 理查德·佩克  | A Long Way from Chicago by Richard Peck |  |
+| 1999 | 《远离芝加哥的地方》 | 理查德·佩克  | A Long Way from Chicago by Richard Peck | √ |
 | 2000 | 《繁梦大街26号》 | 汤米·狄波拉  | 26 Fairmount Avenue by Tomie dePaola | 缺 |
 | 2000 | 《屋顶上的小孩》 | 奥黛莉·克伦毕斯  | Getting Near to Baby by Audrey Couloumbis |  |
 | 2001 | 《傻狗温迪克》      | 凯特·迪卡米洛  | Because of Winn-Dixie by Kate DiCamillo |   |

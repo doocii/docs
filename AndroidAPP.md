@@ -82,13 +82,18 @@
 - MDict : 配合词典文件
 - 欧路字典
 
+### 其他
 
-
-- 其他： / Cisco AnyConnet
-
-### 生活
-
+- Cisco AnyConnet
 - AirVisual : 空气质量查询、预测
 
+### 极简风格
 
-- 20181205 更新
+- [ap15](https://play.google.com/store/apps/details?id=com.aurhe.ap15) : 极简的主屏幕启动器
+- [LessPhone Launcher](https://play.google.com/store/apps/details?id=me.aswinmohan.nophone) : 另一个启动器
+- [屏幕时钟](https://www.coolapk.com/apk/com.by_syk.screenclock)
+- 
+
+---
+
+- 20190123 更新

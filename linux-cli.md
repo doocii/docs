@@ -1,5 +1,17 @@
 # Linux 命令学习
 
+## 重命名
+
+rename命令，archlinux的版本是c语言的，man查看例子：`rename .htm .html *.htm`
+
+如何是支持perl版本的rename，可以使用正则匹配。但c版本不行，所以批量添加扩展名用bash操作：
+
+`for f in *; do mv "$f" "$f.mp3"; done`
+
+按照001/002这样排序：
+
+`for f in *; do mv "$f" "00$f"; done`
+
 ## ./的含义
 
 可以用于执行当前目录下的可执行文件。例如 `./pushblog.sh`
