@@ -1,88 +1,67 @@
-# Laodu's wiki
 
-## somelists
 
-- [我喜欢的TED演讲](TED-talks.md)
+## clips
 
-## 技术笔记
-
-- [我的笔记系统](我的笔记系统.md)
-- [文件整理](文件整理.md)
-- [正则表达式笔记](正则表达式.md)
-- [电子书工具相关笔记](电子书工具相关笔记.md)
-- [笨方法学python](笨方法学python.md)
-- [安卓APP](AndroidAPP.md)
-- [linux软件](linux-software.md)
-- [linux命令行](linux-cli.md)
-- [archlinux](archlinux.md)
-- [ubuntu](ubuntu.md)
-- [nas](nas.md)
-- [sublime-text](sublime-text.md)
-- [vscode](vscode.md)
-- [chrome-browser](chrome-browser.md)
-- [txt](plain-txt.md)
-
----
-
-## 资料
-
-- [英语学习相关](english-learning.md)
-- [电影相关](movie.md)
-- [电子书相关](ebook.md)
-- [纽伯瑞奖书籍](newbery-medal-books.md)
-- [卡内基奖书籍](carnegie-medal-books.md)
-- [横山秀夫](tuili/HengShanXiuFu.md)
-- [格雷厄姆·格林](tuili/GrahamGreene.md)
-
-## 文章
-
-### 演讲
-
-- [乔布斯2005年在斯坦福大学的演讲](jobs-speech.md)
-- [兰迪波许最后的演讲](randy-pausch.md)
-- [俞敏洪：度过有意义的生命](yuminhong-meaning-life.md)
-- [查理·芒格在南加州大学毕业典礼上的演讲](munger-speech2.md)
-
-### 思维
-
-- [张五常：思考的方法](zhangwuchang.md)
-- [彼得·德鲁克：管理自己](drucker-manage-yourself.md)
-- [查理·芒格：人类误判心理](munger-speech.md)
-- [查理·芒格：投资，请先投资你自己](munger-invest-yourself.md)
-
-### 效率
-
-- [亚伦•斯沃茨：怎样有效利用时间](aaron-swartz.md)
-- [能量管理而非时间管理](managing-energy.md)
-- [艾柯：人类为什么爱清单](eco-list.md)
-
-### 阅读
-
-- [王晓明：这样的人多了，社会坏不到哪里去](wangxiaoming.md)
-
-### 语言
-
-- [余光中：怎样改进英式中文](chinglish.md)
-
-### 故事
-
-- [三个故事](three-questions.md)
-
-### 心理
-
-- [我所犯过的错误](fancuo.md)
-
-### 未分类
-
-- [没人懂某国](meirendongmouguo.md)
-- [不畏风雨](fengyu.md)
-- [茅于轼：教育的目的是什么？](maoyushi-jiaoyu.md)
-- [王小波：工作与人生](wangxiaobo-gongzuo.md)
-- [周保松：走进生命的学问](走进生命的学问.md)
+- [兰迪波许最后的演讲](兰迪波许最后的演讲.md)
+- [芒格：投资，请先投资你自己](芒格：投资，请先投资你自己.md)
+- [余光中：怎样改进英式中文](余光中：怎样改进英式中文.md)
+- [亚伦•斯沃茨：怎样有效利用时间](亚伦•斯沃茨：怎样有效利用时间.md)
+- [张五常：思考的方法](张五常：思考的方法.md)
+- [德鲁克：管理自己](德鲁克：管理自己.md)
+- [三个问题](三个问题.md)
+- [宫泽贤治：不畏风雨](宫泽贤治：不畏风雨.md)
+- [查理·芒格在南加州大学毕业典礼上的演讲](查理·芒格在南加州大学毕业典礼上的演讲.md)
+- [能量管理而非时间管理](能量管理而非时间管理.md)
 - [这鸡蛋真难吃](这鸡蛋真难吃.md)
+- [王小波：工作与人生](王小波：工作与人生.md)
+- [乔布斯2005年在斯坦福大学的演讲](乔布斯2005年在斯坦福大学的演讲.md)
+- [王晓明：这样的人多了，社会坏不到哪里去](王晓明：这样的人多了，社会坏不到哪里去.md)
+- [艾柯：人类为什么爱清单](艾柯：人类为什么爱清单.md)
+- [没人懂某国](没人懂某国.md)
+- [茅于轼：教育的目的是什么？](茅于轼：教育的目的是什么？.md)
+- [茅于轼：教育的目的是什么？](茅于轼：教育的目的是什么？.md)
+- [曾奇峰：我所犯过的错误](曾奇峰：我所犯过的错误.md)
+- [查理·芒格：人类误判心理](查理·芒格：人类误判心理.md)
+- [走进生命的学问](走进生命的学问.md)
+- [俞敏洪：度过有意义的生命](俞敏洪：度过有意义的生命.md)
 
----
 
-### Changelog
+## lists
 
-2018-11-26 更新
+- [纽伯瑞获奖作品](纽伯瑞获奖作品.md)
+- [横山秀夫](横山秀夫.md)
+- [英语学习资源](英语学习资源.md)
+- [像素游戏](像素游戏.md)
+- [我的利器](我的利器.md)
+- [免费电子书](免费电子书.md)
+- [安卓APP](安卓APP.md)
+- [播客资源](播客资源.md)
+- [通识书单](通识书单.md)
+- [通识书单](通识书单.md)
+- [电影资源](电影资源.md)
+- [在线工具](在线工具.md)
+- [跑步电影](跑步电影.md)
+- [卡内基奖获奖作品](卡内基奖获奖作品.md)
+- [love2d](love2d.md)
+- [设计相关资源](设计相关资源.md)
+- [Construct2](Construct2.md)
+- [GrahamGreene](GrahamGreene.md)
+- [符号](符号.md)
+
+
+## tech
+
+- [vscode](vscode.md)
+- [python](python.md)
+- [nas](nas.md)
+- [chrome-browser](chrome-browser.md)
+- [sublime-text](sublime-text.md)
+- [WindowsSoftware](WindowsSoftware.md)
+- [linux-software](linux-software.md)
+- [正则表达式](正则表达式.md)
+- [正则表达式](正则表达式.md)
+- [ubuntu](ubuntu.md)
+- [文件整理](文件整理.md)
+- [linux-cli](linux-cli.md)
+- [archlinux](archlinux.md)
+- [inkscape教程](inkscape教程.md)
