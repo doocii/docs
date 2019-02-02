@@ -7,7 +7,7 @@ import sys
 import datetime
 
 f = open('README.md','w',encoding='utf-8')
-f.write('# docs\n') # 页面H1
+f.write('# metaldudu docs\n') # 页面H1
 files = os.listdir(os.getcwd())
 files.sort()
 
