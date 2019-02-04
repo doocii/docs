@@ -67,8 +67,8 @@
 
 - [克里斯托弗·麦克杜格尔：我们天生就会奔跑](https://www.ted.com/talks/christopher_mcdougall_are_we_born_to_run?language=zh-cn) 狩猎时代的人用跑步生存、上年级跑步水平不会很快下降。（20130930）
 
-
+---
 
 - 开始于2015(?)年
-- 更新于：20181010
+- 更新于：2018-10-10
 

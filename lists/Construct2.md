@@ -1,7 +1,5 @@
 # Construct2 资源
 
-`update 20180915`
-
 ## 官方
 
 - [C2 HOMEPAGE](https://www.scirra.com/construct2)
@@ -40,3 +38,7 @@
 
 - krita
 - https://www.piskelapp.com
+
+---
+
+UPDATE 2018-09-15

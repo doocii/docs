@@ -92,7 +92,6 @@
 - [ap15](https://play.google.com/store/apps/details?id=com.aurhe.ap15) : 极简的主屏幕启动器
 - [LessPhone Launcher](https://play.google.com/store/apps/details?id=me.aswinmohan.nophone) : 另一个启动器
 - [屏幕时钟](https://www.coolapk.com/apk/com.by_syk.screenclock)
-- 
 
 ---
 
