@@ -34,7 +34,6 @@
 - [符号](lists/符号.md)
 - [格雷厄姆·格林](lists/格雷厄姆·格林.md)
 - [横山秀夫](lists/横山秀夫.md)
-- [love2d](lists/love2d.md)
 - [免费电子书](lists/免费电子书.md)
 - [跑步电影](lists/跑步电影.md)
 - [设计相关资源](lists/设计相关资源.md)
@@ -47,6 +46,15 @@
 - [在线工具](lists/在线工具.md)
 - [资源-电影](lists/资源-电影.md)
 - [资源-英语学习](lists/资源-英语学习.md)
+
+
+## mental-models
+
+- [8020法则](mental-models/8020法则.md)
+- [复利](mental-models/复利.md)
+- [main](mental-models/main.md)
+- [锚定效应](mental-models/锚定效应.md)
+- [幸存者偏误](mental-models/幸存者偏误.md)
 
 
 ## tech
@@ -69,4 +77,4 @@
 
 --- 
 
-UPDATE: 2019-02-02
+UPDATE: 2019-02-09
