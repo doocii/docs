@@ -51,6 +51,7 @@
 ## mental-models
 
 - [8020法则](mental-models/8020法则.md)
+- [奥卡姆剃刀](mental-models/奥卡姆剃刀.md)
 - [复利](mental-models/复利.md)
 - [main](mental-models/main.md)
 - [锚定效应](mental-models/锚定效应.md)
@@ -77,4 +78,4 @@
 
 --- 
 
-UPDATE: 2019-02-09
+UPDATE: 2019-02-12
